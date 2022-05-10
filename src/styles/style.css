@@ -1,0 +1,187 @@
+/*estilos para los links de navegación en Contact Me*/
+.aboutme{
+  background-color:red;
+}
+
+#navContactMe {
+  margin-left:0;
+  padding-left:0;  
+}
+
+#navContactMe ul {
+  margin-left:0;
+  padding-left:0;
+  list-style: none;
+  display: flex;
+  /*justify-content: flex-start;*/
+  flex-wrap:wrap;
+  align-content: flex-start;
+  /*align-content: stretch;*/
+ 
+}
+ 
+#navContactMe li{  
+  margin:5px;
+  padding:5px;
+  /*background-color: blue;*/
+}
+
+#navContactMe a {
+  color:black;    
+  /*text-decoration: none;*/ 
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  font-size:16px;
+}
+
+/* estilo para el texto en las descripciones empleadas en divs about me y work*/
+.textoPersonalDescription{
+  display:flex; 
+  flex-wrap: wrap; 
+  justify-content: space-between; 
+  padding-left: 15px;
+}
+
+
+/* clases card para las imagenes empleadas en works */
+.card {
+  flex: 1 0 200px;
+ /* padding: 10px;*/
+  width: 250px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  margin:10px;
+  padding:20px;
+}
+
+.card img {
+ /* flex: 1 0 200px;*/
+  width: 100%;  
+}
+
+/* estilos para los divs dentro del articulo works */
+.works {
+  background-repeat:no-repeat; 
+  background-size: cover; 
+ /* cursor:pointer; */
+  border-style: solid; 
+  border-width: 3px; 
+  border-color: cadetblue;
+  text-decoration: none; 
+  color:black;
+}
+
+/*cambio de estilo cuando se coloca el cursor por arriba de los conceptos de work */
+.works:hover{
+  border-color: black;
+  opacity:0.4;
+}
+
+/*clase para los letreros en cada uno de los conceptos de works */
+.tituloWorks{
+  /*background-color:cadetblue; */
+  background: rgba(76, 175, 80, 0.3);
+  padding:5px; 
+  font-weight: bold;
+  /*opacity: 0.4;*/
+}
+
+
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.cabecera{
+  padding:10px;
+}
+
+.tituloCabecera{
+  margin-left:10px;
+}
+
+.divSafeTrip{
+  background-image: url('../images/safeTripPlanner.png'); 
+  flex: 2 1 600px;
+}
+
+.divWeatherDashboard{
+  background-image: url('../images/weatherDashboard.png');
+}
+
+.divWorkDay{
+  background-image: url('../images/workDay.png');
+}
+
+.divEncriptedMessaging{
+  background-image: url('../images/encryptedMessaging.webp');
+}
+
+.divProjectManagment{
+  background-image: url('../images/projectManagment.png');
+}
+
+.divEmployeeManager{
+  background-image: url('../images/expedienteClinicoElectronico.webp');
+}
+
+.divEcommerce{
+  background-image: url('../images/telemedicina.webp');
+}
+
+.divLifeMultitaskManager{
+  background-image: url('../images/criptografia.webp');
+}
+
+.center{
+  text-align: center;
+}
+
+.form {
+  margin: 20px;
+}
+
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+
+.form textarea {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.paddingTopResume{
+  padding-top:15px;
+}
+
+.error-text{
+  padding-left:20px;
+  color:red;
+}
+
+.footer{
+    padding:15px; text-align: center; background-color: black; color:white;     
+}
+
+.footer a {
+  margin: 5px;
+  color:white;    
+  /*text-decoration: none;*/ 
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  font-size:16px;
+  margin-bottom:15px;
+}
