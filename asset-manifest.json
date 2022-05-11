@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.fd93ae24.css",
+    "main.js": "/reactPortfolio/static/js/main.a65a16ab.js",
+    "static/media/safeTripPlanner.png": "/reactPortfolio/static/media/safeTripPlanner.a717edc079a43737edf0.png",
+    "static/media/projectManagment.png": "/reactPortfolio/static/media/projectManagment.0803c353809450d26512.png",
+    "static/media/weatherDashboard.png": "/reactPortfolio/static/media/weatherDashboard.f27beaf55e1b27ade617.png",
+    "static/media/workDay.png": "/reactPortfolio/static/media/workDay.2c0c2f5d21392e41f8d8.png",
+    "static/media/fotoPerfil.webp": "/reactPortfolio/static/media/fotoPerfil.5a7254f912e0f21b5a26.webp",
+    "static/media/expedienteClinicoElectronico.webp": "/reactPortfolio/static/media/expedienteClinicoElectronico.475c29d7c9b9f0c864bd.webp",
+    "static/media/encryptedMessaging.webp": "/reactPortfolio/static/media/encryptedMessaging.b8a1ed16fde49e4b1611.webp",
+    "static/media/criptografia.webp": "/reactPortfolio/static/media/criptografia.623b80e33b455cdd7dda.webp",
+    "static/media/telemedicina.webp": "/reactPortfolio/static/media/telemedicina.18a4ae09c524bc5e4ade.webp",
+    "index.html": "/reactPortfolio/index.html",
+    "main.fd93ae24.css.map": "/reactPortfolio/static/css/main.fd93ae24.css.map",
+    "main.a65a16ab.js.map": "/reactPortfolio/static/js/main.a65a16ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd93ae24.css",
+    "static/js/main.a65a16ab.js"
+  ]
+}
