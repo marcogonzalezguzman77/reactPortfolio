@@ -9,7 +9,7 @@ This is a personal Portfolio made in React.
 
 The following image shows the Tech Blog application's appearance:
 
-![Text Editor Image](./client/src/images/textEditor.png)
+![React Portfolio Image](./src/images/reactPortfolio.png)
 
 
-You can get in into the App in the next link in Git Hub Page with React [Text Editor](https://text-editor-magg.herokuapp.com/) for testing.
+You can get in into the App in the next link in Git Hub Page with React [Portfolio](https://marcogonzalezguzman77.github.io/reactPortfolio/) for testing.
