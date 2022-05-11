@@ -7,7 +7,7 @@ This is a personal Portfolio made in React.
 ## ⚙⚙ Web Page Functionality
 
 
-The following image shows the Tech Blog application's appearance:
+The following image shows the React Portfolio application's appearance:
 
 ![React Portfolio Image](./src/images/reactPortfolio.png)
 
